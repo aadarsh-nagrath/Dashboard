@@ -8,6 +8,9 @@ import Login from "./pages/login/Login";
 import Single from "./pages/single/Single";
 import List from "./pages/list/List";
 import New from "./pages/new/New";  
+
+// good way of routing
+
 function App() {
   return (
     <div className="App">
